@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorJavaXML</string>
+    <string name="sumIcon">+</string>
+    <string name="calculate">CALCULATE</string>
+</resources>
