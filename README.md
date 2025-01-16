@@ -1,4 +1,4 @@
-# CalculatorKotlinJetpack
+# CalculatorJavaXML
 
 A simple calculator developed in Java using XML for the graphical interface.
 
